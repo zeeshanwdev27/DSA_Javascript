@@ -1,4 +1,4 @@
-// MergeSort is Powerful then Bubble Sort
+// MergeSort is Powerful then Bubble Sort   ( reduce time but takes space)
 
 //Part 1
 function conquor(arr, first, mid, last){
