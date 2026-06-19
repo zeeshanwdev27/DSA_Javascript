@@ -1,4 +1,4 @@
-// MergeSort is Powerful then binarySearch
+// MergeSort is Powerful then Bubble Sort
 
 //Part 1
 function conquor(arr, first, mid, last){
