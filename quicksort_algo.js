@@ -15,14 +15,12 @@ function findPivotIdx( arr, first, last ){
         while(i<=last && arr[i]<=pivot) i++;
         while(j>=first && arr[j]>pivot) j--;
 
-
         if(i<j){
             swapper(arr, i, j)
         }
         
         swapper(arr, j, first)
         return j;
-
     }
 
 }
